@@ -7,15 +7,15 @@
             "type": "String"
         },
         "rg": {
-           "value": "resourceGroups/LA-DEV/",
+           "defaultValue": "resourceGroups/LA-DEV/",
            "type": "String"
         },
         "providers": {
-            "value": "providers/Microsoft.Web/connections/",
+            "defaultValue": "providers/Microsoft.Web/connections/",
             "type": "String"
         },
         "location": {
-            "value": "locations/eastus/",
+            "defaultValue": "locations/eastus/",
             "type": "String"
         },
         "workflows_LA_Email_Rss_name": {
